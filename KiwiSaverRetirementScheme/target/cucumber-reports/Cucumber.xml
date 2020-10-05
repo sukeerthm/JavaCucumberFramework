@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="49.804821">
+<testcase classname="As a Product Owner" name="Given User enters information in the form to calculate projected balance" time="32.448454">
+<system-out><![CDATA[Given I Open navigate to the Retirement Calculator Form.....................passed
+And I fill the retirement FormDetails.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="As a Product Owner" name="Given User Clicks information icon besides &lt;Label&gt; the message &lt;HelpText&gt; is displayed below the current age field." time="17.356367">
+<system-out><![CDATA[Given I Open navigate to the Retirement Calculator Form.....................passed
+And I validate the helptext for all the fields..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
