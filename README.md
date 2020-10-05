@@ -1,4 +1,4 @@
-# westpac assesment using JavaCucumberFramework
+# Basic javaCucumberFramework
 Requirements:
 1. Install Java8 and update PATH
 2. Install Maven and update PATH
